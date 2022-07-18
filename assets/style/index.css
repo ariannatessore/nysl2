@@ -1,0 +1,73 @@
+.container{
+    margin:40px 20px 20px 20px;
+    
+}
+.title{
+    height: 400px;
+    background-image:url(" https://s3.amazonaws.com/gbstool/courses/1304/11348/Alternative%20Image.jpg?AWSAccessKeyId=AKIAJBIZLMJQ2O6DKIAA&Expires=1657875600&Signature=fcQr%2FNmG0B6aq5IruCW65DWvzDA%3D "); height: 500px;
+    background-size: cover;
+    border-style: solid;
+    border-width: 8px;
+    border-color: blue;
+    margin-bottom: -20px;
+}
+.Upcoming-Events{
+
+    background-color: blue;
+    margin-top: -1;
+    display: flex;
+    justify-content: center;
+    color:white;
+}
+.fotologo{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 134px;
+    right: 80px;
+}
+   
+.navbar{
+    display: inline-block;
+    font-size: 30px;
+    position: relative;
+    bottom: 382px;
+    
+
+}
+.textohome{
+display: inline-block;
+font-size: 21px;
+position: relative;
+bottom: 190px;
+position: relative;
+    left: 41px;
+}
+.parrafo1{
+    position: relative;
+    top: -27px;
+    left: 28px;
+}
+
+.mes2{
+    
+position: relative;
+bottom: 39px;
+}
+.parafo2{
+    position: relative;
+    bottom: 66px;
+    left: 27px;
+}
+.mes3{
+    position: relative;
+    bottom: 81px;
+}
+.parrafo3{
+     position: relative;
+    bottom: 107px;
+    left: 29px;
+    }
+    ul {
+        list-style: none;
+    }
